@@ -1,6 +1,6 @@
 from typing import List, Dict
-from biblioteca.livros import Livro
-from biblioteca.usuarios import Usuario
+from livros import Livro
+from usuarios import Usuario
 
 
 class Emprestimo:
